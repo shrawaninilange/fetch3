@@ -1,0 +1,69 @@
+{
+  "posts": [
+    {
+     
+			"id": "nanoid()",
+      "title": "json6r",
+      "ds" :" typicode",
+       
+      "date" : "13/3/2022"
+
+    },
+    {
+     
+			"id": "nanoid()",
+      "title": "jsonr",
+      "ds" :" typicode",
+      "date" : "13/3/2022"
+    },
+    {
+     
+			"id": "nanoid()",
+      "title": "json-server",
+      "ds" :" typicode",
+      "date" : "13/3/2022"
+    },
+    {
+     
+			"id": "nanoid()",
+      "title": "json33",
+      "ds" :" typicode",
+      "date" : "13/3/2022"
+    },
+    {
+     
+			"id": "nanoid()",
+      "title": "json12",
+      "ds" :" typicode",
+      "date" : "13/3/2022"
+    },
+    {
+     
+			"id": "nanoid()",
+      "title": "json ",
+      "ds" :" typicode",
+      "date" : "13/3/2022"
+    },
+    {
+     
+			"id": "nanoid()",
+      "title": "cdcd",
+      "ds" :" typicode",
+      "date" : "13/3/2022"
+    },
+    {
+     
+			"id": "nanoid()",
+      "title": "rds",
+      "ds" :" typicode",
+      "date" : "13/3/2022"
+    },{
+     
+			"id": "nanoid()",
+      "title": "dsv",
+      "ds" :" typicode",
+      "date" : "13/3/2022"
+    }
+  ]
+   
+}
